@@ -1,1 +1,26 @@
-css
+#header{
+ background-color: coral ;
+  color: black ;
+  text-align: center ;
+}
+
+body{
+ color: white ;
+  background-color: #EEEEE ;
+}
+
+#container {
+  color: blue 
+ width: 800px ;
+  margin-left: auto ;
+  margin-right: auto ;
+}
+
+#content{
+ padding: 10px 10px 10px 10px
+}
+
+#main{
+ float: right ;
+  background-color: #800000 ;
+}
